@@ -1,0 +1,17 @@
+{
+    "app_title": {
+        "message": "QRtme"
+    },
+    "options_title": {
+        "message": "QRtme | Options"
+    },
+    "app_description": {
+        "message": "A chrome extension to convert links into a QR Code to view on mobile browsers"
+    },
+    "about": {
+        "message": "Convert links into a QR Code to view on mobile browsers"
+    },
+    "installed": {
+        "message": "QRtme installed successfully :)"
+    }
+}

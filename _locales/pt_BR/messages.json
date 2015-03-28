@@ -1,0 +1,17 @@
+{
+    "app_title": {
+        "message": "QRtme"
+    },
+    "options_title": {
+        "message": "QRtme | Opções"
+    },
+    "app_description": {
+        "message": "Acesse seus links do computador pelo celular sem precisar digitar nada"
+    },
+    "about": {
+        "message": "Uma extensão para transformar links em imagens QR Code para serem acessados no seu smartphone"
+    },
+    "installed": {
+        "message": "QRtme instalado com sucesso :)"
+    }
+}
