@@ -1,4 +1,4 @@
-# QRtme Chrome Extension [![GH version](https://badge-me.herokuapp.com/api/gh/chrisenytc/qrtme.png)](http://badges.enytc.com/for/gh/chrisenytc/qrtme)
+# QRtme Chrome Extension [![GH version](https://badge-me.herokuapp.com/api/gh/chrisenytc/qrtme-chrome.png)](http://badges.enytc.com/for/gh/chrisenytc/qrtme-chrome)
 
 > A chrome extension to convert links into a QR Code to view on mobile browsers
 
@@ -7,7 +7,7 @@
 See the [CONTRIBUTING Guidelines](CONTRIBUTING.md)
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/qrtme/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/qrtme-chrome/issues).
 
 ## License
 

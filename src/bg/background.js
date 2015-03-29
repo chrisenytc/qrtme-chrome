@@ -1,6 +1,6 @@
 /*
  * qrtme
- * https://github.com/chrisenytc/qrtme
+ * https://github.com/chrisenytc/qrtme-chrome
  *
  * Copyright (c) 2015, Christopher EnyTC
  */
